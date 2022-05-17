@@ -5,6 +5,7 @@ import Navbar from '../comps/Navbar'
 import Final from '../comps/Final'
 import reqs from '../utilities/reqs'
 
+
 export default function Home({results}) {
  // console.log(props);
   
