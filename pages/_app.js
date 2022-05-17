@@ -1,5 +1,6 @@
 import '../styles/globals.css'
-import '/Users/nikhilgautam/next/hulu/style.css'
+import '../styles/style.css'
+
 
 
 function MyApp({ Component, pageProps }) {
